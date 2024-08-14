@@ -163,10 +163,7 @@ python-iso639==2024.4.27
 python-json-logger==2.0.7
 python-magic==0.4.27
 
-pytz==2024.1
-pywin32==306
-pywin32-ctypes==0.2.2
-pywinpty==2.0.13
+
 PyYAML==6.0.1
 pyzmq==26.0.3
 qtconsole==5.5.2
@@ -183,8 +180,7 @@ rpds-py==0.18.1
 safetensors==0.4.4
 scikit-learn==1.5.0
 scipy==1.13.1
-selenium==4.21.0
-selenium-stealth==1.0.6
+
 Send2Trash==1.8.3
 sentence-transformers==3.0.1
 setuptools==69.5.1
